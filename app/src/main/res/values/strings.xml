@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartao de Visita</string>
+    <string name="meuNome">Rodrigo Aguiar</string>
+    <string name="email">email@exemplo.com</string>
+    <string name="telefone">+55 (62) 99999-9999</string>
+    <string name="github">\@rodrigoaguiar0</string>
+</resources>
